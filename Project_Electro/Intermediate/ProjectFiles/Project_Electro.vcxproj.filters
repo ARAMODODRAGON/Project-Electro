@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Project_Electro.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C3EAAF2B-7173-4FF9-9BF8-73EBBD1E8F24}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Project_Electro.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Project_ElectroEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A33A0882-4431-4D9F-AFE8-ED7A4C635A10}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Project_Electro">
+      <UniqueIdentifier>{7CB6029F-D381-4470-8107-9BCA9E0701CD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Project_Electro\Project_Electro.Build.cs">
+      <Filter>Source\Project_Electro</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Project_Electro\Project_Electro.cpp">
+      <Filter>Source\Project_Electro</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Project_Electro\Project_Electro.h">
+      <Filter>Source\Project_Electro</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Project_Electro\Project_ElectroCharacter.cpp">
+      <Filter>Source\Project_Electro</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Project_Electro\Project_ElectroCharacter.h">
+      <Filter>Source\Project_Electro</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Project_Electro\Project_ElectroGameMode.cpp">
+      <Filter>Source\Project_Electro</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Project_Electro\Project_ElectroGameMode.h">
+      <Filter>Source\Project_Electro</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
