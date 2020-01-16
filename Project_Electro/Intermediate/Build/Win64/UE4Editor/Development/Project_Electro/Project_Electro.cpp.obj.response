@@ -28,8 +28,10 @@
 /wd4838
 /we4668
 /I .
+/I "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Source\Project_Electro\Private"
 /I "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Inc\Project_Electro"
 /I "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Source"
+/I "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Source\Project_Electro\Public"
 /I "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Source\Project_Electro"
 /I Runtime
 /I Runtime\Core\Public

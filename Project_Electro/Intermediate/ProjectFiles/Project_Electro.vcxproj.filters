@@ -54,4 +54,12 @@
       <Filter>Source\Project_Electro</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\Project_Electro\Public">
+      <UniqueIdentifier>{728addd5-5fbf-439c-bd5e-55851cc36c17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Project_Electro\Private">
+      <UniqueIdentifier>{6736c7e8-9e71-4233-9690-ad2244f7edc5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
 </Project>

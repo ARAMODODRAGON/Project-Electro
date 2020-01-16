@@ -582,3 +582,630 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.16-02.22.08:567][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.01.16-02.22.50:705][277]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2020.01.16-02.23.30:734][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-02.24.21:251][909]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.01.16-02.25.05:396][508]Candidate modules for hot reload:
+[2020.01.16-02.25.05:396][508]  Project_Electro
+[2020.01.16-02.25.05:396][508]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Project_Electro,157 Win64 Development -TargetType=Editor -Project="D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject" "D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject"  -IgnoreJunk]
+[2020.01.16-02.27.09:738][508]CompilerResultsLog: New page: Compilation - Jan 15, 2020, 4:27:09 PM
+[2020.01.16-02.27.09:738][508]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Documents\~~PROJECT ELECTRO\Project-Electro).
+[2020.01.16-02.27.09:738][508]CompilerResultsLog: Creating makefile for Project_ElectroEditor (game project files are newer)
+[2020.01.16-02.27.09:738][508]CompilerResultsLog: Parsing headers for Project_ElectroEditor
+[2020.01.16-02.27.09:738][508]CompilerResultsLog:   Running UnrealHeaderTool "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Project_Electro.uproject" "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\Project_ElectroEditor\Development\Project_ElectroEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.16-02.27.09:738][508]CompilerResultsLog: Reflection code generated for Project_ElectroEditor in 18.6451466 seconds
+[2020.01.16-02.27.09:738][508]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.16-02.27.09:738][508]CompilerResultsLog: Building 10 actions with 12 processes...
+[2020.01.16-02.27.09:738][508]CompilerResultsLog:   [1/10] PowerTypeValue.cpp
+[2020.01.16-02.27.09:738][508]CompilerResultsLog:   [2/10] Project_Electro.cpp
+[2020.01.16-02.27.09:738][508]CompilerResultsLog:   [3/10] Project_Electro.init.gen.cpp
+[2020.01.16-02.27.09:738][508]CompilerResultsLog:   [4/10] Project_ElectroGameMode.cpp
+[2020.01.16-02.27.09:738][508]CompilerResultsLog:   [5/10] Project_ElectroCharacter.gen.cpp
+[2020.01.16-02.27.09:738][508]CompilerResultsLog:   [6/10] Project_ElectroGameMode.gen.cpp
+[2020.01.16-02.27.09:738][508]CompilerResultsLog:   [7/10] Project_ElectroCharacter.cpp
+[2020.01.16-02.27.09:738][508]CompilerResultsLog:   [8/10] UE4Editor-Project_Electro-0157.lib
+[2020.01.16-02.27.09:738][508]CompilerResultsLog:      Creating library D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-0157.lib and object D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-0157.exp
+[2020.01.16-02.27.09:739][508]CompilerResultsLog:   [9/10] UE4Editor-Project_Electro-0157.dll
+[2020.01.16-02.27.09:739][508]CompilerResultsLog:      Creating library D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-0157.suppressed.lib and object D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-0157.suppressed.exp
+[2020.01.16-02.27.09:739][508]CompilerResultsLog:   [10/10] Project_ElectroEditor.target
+[2020.01.16-02.27.09:739][508]CompilerResultsLog: Total time in Parallel executor: 103.20 seconds
+[2020.01.16-02.27.09:739][508]CompilerResultsLog: Total execution time: 124.25 seconds
+[2020.01.16-02.27.09:739][508]LogMainFrame: MainFrame: Module compiling took 124.347 seconds
+[2020.01.16-02.27.09:780][508]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.01.16-02.27.09:780][508]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.01.16-02.27.09:795][508]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2735 classes and 663 folders.
+[2020.01.16-02.27.09:795][508]Display: HotReload took 124.4s.
+[2020.01.16-02.27.09:796][508]Warning: HotReload operation took 124.4s.
+[2020.01.16-02.27.10:026][508]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.01.16-02.27.10:373][509]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.01.16-02.27.10:375][509]LogHotReload: New module detected: UE4Editor-Project_Electro-0157.dll
+[2020.01.16-02.27.10:401][510]LogHotReload: Starting Hot-Reload from IDE
+[2020.01.16-02.27.10:488][510]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.01.16-02.27.10:488][510]LogBlueprintActionDatabase: Requesting refresh due to module change: Project_Electro (unloaded)
+[2020.01.16-02.27.10:510][510]LogBlueprintActionDatabase: Requesting refresh due to module change: Project_Electro (loaded)
+[2020.01.16-02.27.10:511][510]LogContentBrowser: Native class hierarchy updated for 'Project_Electro' in 0.0009 seconds. Added 2 classes and 2 folders.
+[2020.01.16-02.27.10:515][510]Display: HotReload successful (0 functions remapped  1 scriptstructs remapped)
+[2020.01.16-02.27.10:701][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.01.16-02.27.10:701][510]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.01.16-02.27.10:714][510]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 2735 classes and 663 folders.
+[2020.01.16-02.27.10:717][510]Display: HotReload took  0.3s.
+[2020.01.16-02.27.43:712][842]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (33.338 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.01.16-02.31.50:922][735]Candidate modules for hot reload:
+[2020.01.16-02.31.50:922][735]  Project_Electro
+[2020.01.16-02.31.50:922][735]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Project_Electro,13 Win64 Development -TargetType=Editor -Project="D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject" "D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject"  -IgnoreJunk]
+[2020.01.16-02.31.50:931][735]Warning: Starting HotReload took  0.0s.
+[2020.01.16-02.32.00:242][289]CompilerResultsLog: New page: Compilation - Jan 15, 2020, 4:32:00 PM
+[2020.01.16-02.32.00:242][289]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Documents\~~PROJECT ELECTRO\Project-Electro).
+[2020.01.16-02.32.00:242][289]CompilerResultsLog: Parsing headers for Project_ElectroEditor
+[2020.01.16-02.32.00:242][289]CompilerResultsLog:   Running UnrealHeaderTool "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Project_Electro.uproject" "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\Project_ElectroEditor\Development\Project_ElectroEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.16-02.32.00:242][289]CompilerResultsLog: Reflection code generated for Project_ElectroEditor in 7.36989 seconds
+[2020.01.16-02.32.00:242][289]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.16-02.32.00:242][289]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.01.16-02.32.00:242][289]CompilerResultsLog:   [1/4] PowerTypeValue.cpp
+[2020.01.16-02.32.00:242][289]CompilerResultsLog:   D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Source\Project_Electro\Public\PowerTypeValue.h(7): fatal error C1083: Cannot open include file: 'PowerTypeValue.generated.h': No such file or directory
+[2020.01.16-02.32.00:242][289]LogMainFrame: MainFrame: Module compiling took 9.322 seconds
+[2020.01.16-02.32.00:243][289]Warning: HotReload failed, recompile failed
+[2020.01.16-02.32.01:536][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-02.32.07:319][711]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-02.32.07:327][711]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-02.33.01:499][266]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-02.33.01:502][266]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-02.33.02:993][330]Candidate modules for hot reload:
+[2020.01.16-02.33.02:993][330]  Project_Electro
+[2020.01.16-02.33.02:993][330]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Project_Electro,6064 Win64 Development -TargetType=Editor -Project="D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject" "D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject"  -IgnoreJunk]
+[2020.01.16-02.33.02:996][330]Warning: Starting HotReload took  0.0s.
+[2020.01.16-02.33.12:603][902]CompilerResultsLog: New page: Compilation - Jan 15, 2020, 4:33:12 PM
+[2020.01.16-02.33.12:603][902]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Documents\~~PROJECT ELECTRO\Project-Electro).
+[2020.01.16-02.33.12:603][902]CompilerResultsLog: Parsing headers for Project_ElectroEditor
+[2020.01.16-02.33.12:603][902]CompilerResultsLog:   Running UnrealHeaderTool "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Project_Electro.uproject" "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\Project_ElectroEditor\Development\Project_ElectroEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.16-02.33.12:603][902]CompilerResultsLog: Reflection code generated for Project_ElectroEditor in 7.5671711 seconds
+[2020.01.16-02.33.12:604][902]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.16-02.33.12:604][902]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.01.16-02.33.12:604][902]CompilerResultsLog:   [1/4] PowerTypeValue.cpp
+[2020.01.16-02.33.12:604][902]CompilerResultsLog:   D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Source\Project_Electro\Public\PowerTypeValue.h(7): fatal error C1083: Cannot open include file: 'PowerTypeValue.generated.h': No such file or directory
+[2020.01.16-02.33.12:604][902]LogMainFrame: MainFrame: Module compiling took 9.614 seconds
+[2020.01.16-02.33.12:604][902]Warning: HotReload failed, recompile failed
+[2020.01.16-02.33.19:271][300]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-02.33.19:278][300]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-02.33.26:756][415]Candidate modules for hot reload:
+[2020.01.16-02.33.26:756][415]  Project_Electro
+[2020.01.16-02.33.26:756][415]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Project_Electro,6257 Win64 Development -TargetType=Editor -Project="D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject" "D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject"  -IgnoreJunk]
+[2020.01.16-02.33.26:758][415]Warning: Starting HotReload took  0.0s.
+[2020.01.16-02.33.35:782][869]CompilerResultsLog: New page: Compilation - Jan 15, 2020, 4:33:35 PM
+[2020.01.16-02.33.35:782][869]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Documents\~~PROJECT ELECTRO\Project-Electro).
+[2020.01.16-02.33.35:782][869]CompilerResultsLog: Parsing headers for Project_ElectroEditor
+[2020.01.16-02.33.35:782][869]CompilerResultsLog:   Running UnrealHeaderTool "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Project_Electro.uproject" "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\Project_ElectroEditor\Development\Project_ElectroEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.16-02.33.35:782][869]CompilerResultsLog: Reflection code generated for Project_ElectroEditor in 6.8941936 seconds
+[2020.01.16-02.33.35:782][869]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.16-02.33.35:782][869]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.01.16-02.33.35:782][869]CompilerResultsLog:   [1/4] PowerTypeValue.cpp
+[2020.01.16-02.33.35:782][869]CompilerResultsLog:    D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Source\Project_Electro\Public\PowerTypeValue.h(19) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2020.01.16-02.33.35:783][869]LogMainFrame: MainFrame: Module compiling took 9.030 seconds
+[2020.01.16-02.33.35:783][869]Warning: HotReload failed, recompile failed
+[2020.01.16-02.33.50:873][723]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-02.33.50:881][723]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-02.39.06:719][745]Candidate modules for hot reload:
+[2020.01.16-02.39.06:719][745]  Project_Electro
+[2020.01.16-02.39.06:719][745]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Project_Electro,351 Win64 Development -TargetType=Editor -Project="D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject" "D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject"  -IgnoreJunk]
+[2020.01.16-02.39.06:724][745]Warning: Starting HotReload took  0.0s.
+[2020.01.16-02.39.15:301][984]CompilerResultsLog: New page: Compilation - Jan 15, 2020, 4:39:15 PM
+[2020.01.16-02.39.15:301][984]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Documents\~~PROJECT ELECTRO\Project-Electro).
+[2020.01.16-02.39.15:301][984]CompilerResultsLog: Parsing headers for Project_ElectroEditor
+[2020.01.16-02.39.15:301][984]CompilerResultsLog:   Running UnrealHeaderTool "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Project_Electro.uproject" "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\Project_ElectroEditor\Development\Project_ElectroEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.16-02.39.15:301][984]CompilerResultsLog: Reflection code generated for Project_ElectroEditor in 6.6411884 seconds
+[2020.01.16-02.39.15:301][984]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.16-02.39.15:301][984]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.01.16-02.39.15:301][984]CompilerResultsLog:   [1/4] PowerTypeValue.cpp
+[2020.01.16-02.39.15:301][984]CompilerResultsLog:   D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Source\Project_Electro\Public\PowerTypeValue.h(7): fatal error C1083: Cannot open include file: 'PowerTypeValue.generated.h': No such file or directory
+[2020.01.16-02.39.15:301][984]LogMainFrame: MainFrame: Module compiling took 8.585 seconds
+[2020.01.16-02.39.15:301][984]Warning: HotReload failed, recompile failed
+[2020.01.16-02.39.31:403][554]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-02.39.31:410][554]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-02.54.40:197][579]Candidate modules for hot reload:
+[2020.01.16-02.54.40:197][579]  Project_Electro
+[2020.01.16-02.54.40:197][579]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Project_Electro,9605 Win64 Development -TargetType=Editor -Project="D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject" "D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject"  -IgnoreJunk]
+[2020.01.16-02.54.40:200][579]Warning: Starting HotReload took  0.0s.
+[2020.01.16-02.54.57:180][578]CompilerResultsLog: New page: Compilation - Jan 15, 2020, 4:54:57 PM
+[2020.01.16-02.54.57:180][578]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Documents\~~PROJECT ELECTRO\Project-Electro).
+[2020.01.16-02.54.57:180][578]CompilerResultsLog: Creating makefile for Project_ElectroEditor (game project files are newer)
+[2020.01.16-02.54.57:180][578]CompilerResultsLog: Parsing headers for Project_ElectroEditor
+[2020.01.16-02.54.57:180][578]CompilerResultsLog:   Running UnrealHeaderTool "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Project_Electro.uproject" "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\Project_ElectroEditor\Development\Project_ElectroEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.16-02.54.57:180][578]CompilerResultsLog: Reflection code generated for Project_ElectroEditor in 8.5930451 seconds
+[2020.01.16-02.54.57:180][578]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.16-02.54.57:180][578]CompilerResultsLog: Building 10 actions with 12 processes...
+[2020.01.16-02.54.57:180][578]CompilerResultsLog:   [1/10] Project_Electro.cpp
+[2020.01.16-02.54.57:180][578]CompilerResultsLog:   [2/10] PowerTypeValue.cpp
+[2020.01.16-02.54.57:180][578]CompilerResultsLog:   [3/10] Project_Electro.init.gen.cpp
+[2020.01.16-02.54.57:180][578]CompilerResultsLog:   [4/10] Project_ElectroGameMode.cpp
+[2020.01.16-02.54.57:180][578]CompilerResultsLog:   [5/10] PowerTypeValue.gen.cpp
+[2020.01.16-02.54.57:180][578]CompilerResultsLog:   [6/10] Project_ElectroCharacter.gen.cpp
+[2020.01.16-02.54.57:180][578]CompilerResultsLog:   [7/10] Project_ElectroCharacter.cpp
+[2020.01.16-02.54.57:180][578]CompilerResultsLog:   [8/10] UE4Editor-Project_Electro-9605.lib
+[2020.01.16-02.54.57:180][578]CompilerResultsLog:      Creating library D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-9605.lib and object D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-9605.exp
+[2020.01.16-02.54.57:180][578]CompilerResultsLog:   [9/10] UE4Editor-Project_Electro-9605.dll
+[2020.01.16-02.54.57:180][578]CompilerResultsLog:      Creating library D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-9605.suppressed.lib and object D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-9605.suppressed.exp
+[2020.01.16-02.54.57:180][578]CompilerResultsLog:   [10/10] Project_ElectroEditor.target
+[2020.01.16-02.54.57:180][578]CompilerResultsLog: Total time in Parallel executor: 5.37 seconds
+[2020.01.16-02.54.57:180][578]CompilerResultsLog: Total execution time: 16.83 seconds
+[2020.01.16-02.54.57:180][578]LogMainFrame: MainFrame: Module compiling took 16.987 seconds
+[2020.01.16-02.54.57:247][578]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.01.16-02.54.57:247][578]LogBlueprintActionDatabase: Requesting refresh due to module change: Project_Electro (unloaded)
+[2020.01.16-02.54.57:286][578]LogClass: Could not find existing type PowerTypeValue for HotReload. Assuming new
+[2020.01.16-02.54.57:286][578]LogClass: Could not find existing type PowerTypeVal for HotReload. Assuming new
+[2020.01.16-02.54.57:291][578]LogBlueprintActionDatabase: Requesting refresh due to module change: Project_Electro (loaded)
+[2020.01.16-02.54.57:291][578]LogContentBrowser: Native class hierarchy updated for 'Project_Electro' in 0.0006 seconds. Added 2 classes and 2 folders.
+[2020.01.16-02.54.57:296][578]Display: HotReload successful (0 functions remapped  3 scriptstructs remapped)
+[2020.01.16-02.54.57:365][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.01.16-02.54.57:366][578]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.01.16-02.54.57:381][578]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2735 classes and 663 folders.
+[2020.01.16-02.54.57:381][578]Display: HotReload took 17.2s.
+[2020.01.16-02.56.14:988][151]Candidate modules for hot reload:
+[2020.01.16-02.56.14:988][151]  Project_Electro
+[2020.01.16-02.56.14:988][151]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Project_Electro,351 Win64 Development -TargetType=Editor -Project="D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject" "D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject"  -IgnoreJunk]
+[2020.01.16-02.56.14:995][151]Warning: Starting HotReload took  0.0s.
+[2020.01.16-02.56.30:015][572]CompilerResultsLog: New page: Compilation - Jan 15, 2020, 4:56:30 PM
+[2020.01.16-02.56.30:015][572]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Documents\~~PROJECT ELECTRO\Project-Electro).
+[2020.01.16-02.56.30:015][572]CompilerResultsLog: Invalidating makefile for Project_ElectroEditor (new files with reflected types)
+[2020.01.16-02.56.30:015][572]CompilerResultsLog: Parsing headers for Project_ElectroEditor
+[2020.01.16-02.56.30:015][572]CompilerResultsLog:   Running UnrealHeaderTool "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Project_Electro.uproject" "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\Project_ElectroEditor\Development\Project_ElectroEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.16-02.56.30:015][572]CompilerResultsLog: Reflection code generated for Project_ElectroEditor in 8.1584123 seconds
+[2020.01.16-02.56.30:015][572]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.16-02.56.30:015][572]CompilerResultsLog: Building 9 actions with 12 processes...
+[2020.01.16-02.56.30:015][572]CompilerResultsLog:   [1/9] Project_Electro.init.gen.cpp
+[2020.01.16-02.56.30:015][572]CompilerResultsLog:   [2/9] Project_Electro.cpp
+[2020.01.16-02.56.30:015][572]CompilerResultsLog:   [3/9] Project_Electro.gen.cpp
+[2020.01.16-02.56.30:015][572]CompilerResultsLog:   [4/9] Project_ElectroCharacter.gen.cpp
+[2020.01.16-02.56.30:015][572]CompilerResultsLog:   [5/9] Project_ElectroGameMode.cpp
+[2020.01.16-02.56.30:015][572]CompilerResultsLog:   [6/9] Project_ElectroCharacter.cpp
+[2020.01.16-02.56.30:015][572]CompilerResultsLog:   [7/9] UE4Editor-Project_Electro-0351.lib
+[2020.01.16-02.56.30:015][572]CompilerResultsLog:      Creating library D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-0351.lib and object D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-0351.exp
+[2020.01.16-02.56.30:015][572]CompilerResultsLog:   [8/9] UE4Editor-Project_Electro-0351.dll
+[2020.01.16-02.56.30:015][572]CompilerResultsLog:      Creating library D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-0351.suppressed.lib and object D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-0351.suppressed.exp
+[2020.01.16-02.56.30:015][572]CompilerResultsLog:   [9/9] Project_ElectroEditor.target
+[2020.01.16-02.56.30:015][572]CompilerResultsLog: Total time in Parallel executor: 3.26 seconds
+[2020.01.16-02.56.30:015][572]CompilerResultsLog: Total execution time: 14.61 seconds
+[2020.01.16-02.56.30:015][572]LogMainFrame: MainFrame: Module compiling took 15.030 seconds
+[2020.01.16-02.56.30:084][572]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.01.16-02.56.30:084][572]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.01.16-02.56.30:104][572]LogContentBrowser: Native class hierarchy populated in 0.0134 seconds. Added 2735 classes and 663 folders.
+[2020.01.16-02.56.30:104][572]Display: HotReload took 15.1s.
+[2020.01.16-02.59.03:249][227]Candidate modules for hot reload:
+[2020.01.16-02.59.03:249][227]  Project_Electro
+[2020.01.16-02.59.03:249][227]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Project_Electro,9164 Win64 Development -TargetType=Editor -Project="D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject" "D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject"  -IgnoreJunk]
+[2020.01.16-02.59.03:254][227]Warning: Starting HotReload took  0.0s.
+[2020.01.16-02.59.16:102][986]CompilerResultsLog: New page: Compilation - Jan 15, 2020, 4:59:16 PM
+[2020.01.16-02.59.16:102][986]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Documents\~~PROJECT ELECTRO\Project-Electro).
+[2020.01.16-02.59.16:102][986]CompilerResultsLog: Creating makefile for Project_ElectroEditor (game project files are newer)
+[2020.01.16-02.59.16:102][986]CompilerResultsLog: Parsing headers for Project_ElectroEditor
+[2020.01.16-02.59.16:102][986]CompilerResultsLog:   Running UnrealHeaderTool "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Project_Electro.uproject" "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\Project_ElectroEditor\Development\Project_ElectroEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.16-02.59.16:102][986]CompilerResultsLog: Reflection code generated for Project_ElectroEditor in 8.3060421 seconds
+[2020.01.16-02.59.16:102][986]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.16-02.59.16:102][986]CompilerResultsLog: Building 3 actions with 12 processes...
+[2020.01.16-02.59.16:102][986]CompilerResultsLog:   [1/3] UE4Editor-Project_Electro-9164.lib
+[2020.01.16-02.59.16:102][986]CompilerResultsLog:      Creating library D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-9164.lib and object D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-9164.exp
+[2020.01.16-02.59.16:102][986]CompilerResultsLog:   [2/3] UE4Editor-Project_Electro-9164.dll
+[2020.01.16-02.59.16:102][986]CompilerResultsLog:      Creating library D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-9164.suppressed.lib and object D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-9164.suppressed.exp
+[2020.01.16-02.59.16:102][986]CompilerResultsLog:   [3/3] Project_ElectroEditor.target
+[2020.01.16-02.59.16:102][986]CompilerResultsLog: Total time in Parallel executor: 1.70 seconds
+[2020.01.16-02.59.16:102][986]CompilerResultsLog: Total execution time: 12.70 seconds
+[2020.01.16-02.59.16:102][986]LogMainFrame: MainFrame: Module compiling took 12.856 seconds
+[2020.01.16-02.59.16:194][986]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2020.01.16-02.59.16:194][986]LogBlueprintActionDatabase: Requesting refresh due to module change: Project_Electro (unloaded)
+[2020.01.16-02.59.16:214][986]LogClass: PowerType HotReload.
+[2020.01.16-02.59.16:214][986]LogClass: PowerTypeValue HotReload.
+[2020.01.16-02.59.16:219][986]LogBlueprintActionDatabase: Requesting refresh due to module change: Project_Electro (loaded)
+[2020.01.16-02.59.16:220][986]LogContentBrowser: Native class hierarchy updated for 'Project_Electro' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2020.01.16-02.59.16:225][986]Display: HotReload successful (0 functions remapped  3 scriptstructs remapped)
+[2020.01.16-02.59.16:318][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.01.16-02.59.16:318][986]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.01.16-02.59.16:333][986]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2735 classes and 663 folders.
+[2020.01.16-02.59.16:333][986]Display: HotReload took 13.1s.
+[2020.01.16-02.59.24:086][246]Running C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject" -game -rocket -progress
+[2020.01.16-02.59.24:397][246]Discovering modules, targets and source code for project...
+[2020.01.16-02.59.26:108][246]Binding IntelliSense data...
+[2020.01.16-02.59.27:924][246]Binding IntelliSense data... 100%
+[2020.01.16-02.59.27:925][246]Writing project files...
+[2020.01.16-02.59.30:745][246]Writing project files... 100%
+[2020.01.16-03.05.07:939][757]LogUObjectHash: Compacting FUObjectHashTables data took   7.80ms
+[2020.01.16-03.05.07:939][757]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.120
+[2020.01.16-03.05.07:941][757]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.01.16-03.05.08:001][757]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.01.16-03.05.08:001][757]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter]
+[2020.01.16-03.05.08:079][757]LogSavePackage: Moving 'D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Saved/ThirdPersonCharacter_Auto1CBB22EB64C19D25C26B9CF9B03298B58.tmp' to 'D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2020.01.16-03.05.08:080][757]LogFileHelpers: Auto-saving content packages took 0.141
+[2020.01.16-03.05.19:940][969]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.01.16-03.05.21:565][969]LogSavePackage: Moving 'D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Saved/ThirdPersonCharacter29984B5F4F596D93F9912FB7C4734FD5.tmp' to 'D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.01.16-03.05.23:409][ 77]LogSlate: Took 0.006138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.01.16-03.05.55:044][956]Candidate modules for hot reload:
+[2020.01.16-03.05.55:044][956]  Project_Electro
+[2020.01.16-03.05.55:044][956]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Project_Electro,7477 Win64 Development -TargetType=Editor -Project="D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject" "D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject"  -IgnoreJunk]
+[2020.01.16-03.06.04:960][956]CompilerResultsLog: New page: Compilation - Jan 15, 2020, 5:06:04 PM
+[2020.01.16-03.06.04:960][956]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Documents\~~PROJECT ELECTRO\Project-Electro).
+[2020.01.16-03.06.04:960][956]CompilerResultsLog: Creating makefile for Project_ElectroEditor (no existing makefile)
+[2020.01.16-03.06.04:960][956]CompilerResultsLog: Parsing headers for Project_ElectroEditor
+[2020.01.16-03.06.04:960][956]CompilerResultsLog:   Running UnrealHeaderTool "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Project_Electro.uproject" "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\Project_ElectroEditor\Development\Project_ElectroEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.16-03.06.04:960][956]CompilerResultsLog: Reflection code generated for Project_ElectroEditor in 6.0872717 seconds
+[2020.01.16-03.06.04:960][956]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.16-03.06.04:960][956]CompilerResultsLog: Building 8 actions with 12 processes...
+[2020.01.16-03.06.04:960][956]CompilerResultsLog:   [1/8] PowerTypeTest.cpp
+[2020.01.16-03.06.04:960][956]CompilerResultsLog:   [2/8] Project_Electro.cpp
+[2020.01.16-03.06.04:960][956]CompilerResultsLog:   [3/8] Project_Electro.init.gen.cpp
+[2020.01.16-03.06.04:960][956]CompilerResultsLog:   [4/8] PowerTypeValue.gen.cpp
+[2020.01.16-03.06.04:960][956]CompilerResultsLog:   [5/8] Project_Electro.gen.cpp
+[2020.01.16-03.06.04:960][956]CompilerResultsLog:   [6/8] UE4Editor-Project_Electro-7477.lib
+[2020.01.16-03.06.04:960][956]CompilerResultsLog:   Project_Electro.gen.cpp.obj : warning LNK4006: "class UEnum * __cdecl StaticEnum<enum PowerType>(void)" (??$StaticEnum@W4PowerType@@@@YAPEAVUEnum@@XZ) already defined in PowerTypeValue.gen.cpp.obj; second definition ignored
+[2020.01.16-03.06.04:960][956]CompilerResultsLog:   Project_Electro.gen.cpp.obj : warning LNK4006: "unsigned int __cdecl Get_Z_Construct_UEnum_Project_Electro_PowerType_Hash(void)" (?Get_Z_Construct_UEnum_Project_Electro_PowerType_Hash@@YAIXZ) already defined in PowerTypeValue.gen.cpp.obj; second definition ignored
+[2020.01.16-03.06.04:960][956]CompilerResultsLog:   Project_Electro.gen.cpp.obj : warning LNK4006: "class UEnum * __cdecl Z_Construct_UEnum_Project_Electro_PowerType(void)" (?Z_Construct_UEnum_Project_Electro_PowerType@@YAPEAVUEnum@@XZ) already defined in PowerTypeValue.gen.cpp.obj; second definition ignored
+[2020.01.16-03.06.04:960][956]CompilerResultsLog:      Creating library D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-7477.lib and object D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-7477.exp
+[2020.01.16-03.06.04:960][956]CompilerResultsLog:   [7/8] UE4Editor-Project_Electro-7477.dll
+[2020.01.16-03.06.04:960][956]CompilerResultsLog: Error:   Project_Electro.gen.cpp.obj : error LNK2005: "class UEnum * __cdecl StaticEnum<enum PowerType>(void)" (??$StaticEnum@W4PowerType@@@@YAPEAVUEnum@@XZ) already defined in PowerTypeValue.gen.cpp.obj
+[2020.01.16-03.06.04:960][956]CompilerResultsLog: Error:   Project_Electro.gen.cpp.obj : error LNK2005: "unsigned int __cdecl Get_Z_Construct_UEnum_Project_Electro_PowerType_Hash(void)" (?Get_Z_Construct_UEnum_Project_Electro_PowerType_Hash@@YAIXZ) already defined in PowerTypeValue.gen.cpp.obj
+[2020.01.16-03.06.04:960][956]CompilerResultsLog: Error:   Project_Electro.gen.cpp.obj : error LNK2005: "class UEnum * __cdecl Z_Construct_UEnum_Project_Electro_PowerType(void)" (?Z_Construct_UEnum_Project_Electro_PowerType@@YAPEAVUEnum@@XZ) already defined in PowerTypeValue.gen.cpp.obj
+[2020.01.16-03.06.04:960][956]CompilerResultsLog:      Creating library D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-7477.suppressed.lib and object D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-7477.suppressed.exp
+[2020.01.16-03.06.04:960][956]CompilerResultsLog: Error:   D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Binaries\Win64\UE4Editor-Project_Electro-7477.dll : fatal error LNK1169: one or more multiply defined symbols found
+[2020.01.16-03.06.04:960][956]LogMainFrame: MainFrame: Module compiling took 9.920 seconds
+[2020.01.16-03.06.04:960][956]Warning: HotReload failed, recompile failed
+[2020.01.16-03.06.04:966][956]Warning: RebindPackages failed because compilation failed.
+[2020.01.16-03.06.14:123][956]LogSlate: Window 'Message' being destroyed
+[2020.01.16-03.06.14:279][956]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.01.16-03.06.14:290][956]LogHotReload: New module detected: UE4Editor-Project_Electro-7477.dll
+[2020.01.16-03.06.14:446][956]LogSlate: Took 0.152946 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.01.16-03.06.18:510][191]LogSlate: Window 'Output Log' being destroyed
+[2020.01.16-03.06.18:516][191]LogSlate: Window 'Output Log' being destroyed
+[2020.01.16-03.06.19:065][223]Candidate modules for hot reload:
+[2020.01.16-03.06.19:065][223]  Project_Electro
+[2020.01.16-03.06.19:065][223]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Project_Electro,9883 Win64 Development -TargetType=Editor -Project="D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject" "D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject"  -IgnoreJunk]
+[2020.01.16-03.06.19:158][223]Warning: Starting HotReload took  0.1s.
+[2020.01.16-03.06.28:488][592]CompilerResultsLog: New page: Compilation - Jan 15, 2020, 5:06:28 PM
+[2020.01.16-03.06.28:489][592]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Documents\~~PROJECT ELECTRO\Project-Electro).
+[2020.01.16-03.06.28:489][592]CompilerResultsLog: Parsing headers for Project_ElectroEditor
+[2020.01.16-03.06.28:489][592]CompilerResultsLog:   Running UnrealHeaderTool "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Project_Electro.uproject" "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\Project_ElectroEditor\Development\Project_ElectroEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.16-03.06.28:489][592]CompilerResultsLog: Reflection code generated for Project_ElectroEditor in 6.8946339 seconds
+[2020.01.16-03.06.28:489][592]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.16-03.06.28:489][592]CompilerResultsLog: Building 3 actions with 12 processes...
+[2020.01.16-03.06.28:489][592]CompilerResultsLog:   [1/3] UE4Editor-Project_Electro-9883.lib
+[2020.01.16-03.06.28:489][592]CompilerResultsLog:   Project_Electro.gen.cpp.obj : warning LNK4006: "class UEnum * __cdecl StaticEnum<enum PowerType>(void)" (??$StaticEnum@W4PowerType@@@@YAPEAVUEnum@@XZ) already defined in PowerTypeValue.gen.cpp.obj; second definition ignored
+[2020.01.16-03.06.28:489][592]CompilerResultsLog:   Project_Electro.gen.cpp.obj : warning LNK4006: "unsigned int __cdecl Get_Z_Construct_UEnum_Project_Electro_PowerType_Hash(void)" (?Get_Z_Construct_UEnum_Project_Electro_PowerType_Hash@@YAIXZ) already defined in PowerTypeValue.gen.cpp.obj; second definition ignored
+[2020.01.16-03.06.28:489][592]CompilerResultsLog:   Project_Electro.gen.cpp.obj : warning LNK4006: "class UEnum * __cdecl Z_Construct_UEnum_Project_Electro_PowerType(void)" (?Z_Construct_UEnum_Project_Electro_PowerType@@YAPEAVUEnum@@XZ) already defined in PowerTypeValue.gen.cpp.obj; second definition ignored
+[2020.01.16-03.06.28:489][592]CompilerResultsLog:      Creating library D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-9883.lib and object D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-9883.exp
+[2020.01.16-03.06.28:489][592]CompilerResultsLog:   [2/3] UE4Editor-Project_Electro-9883.dll
+[2020.01.16-03.06.28:489][592]CompilerResultsLog: Error:   Project_Electro.gen.cpp.obj : error LNK2005: "class UEnum * __cdecl StaticEnum<enum PowerType>(void)" (??$StaticEnum@W4PowerType@@@@YAPEAVUEnum@@XZ) already defined in PowerTypeValue.gen.cpp.obj
+[2020.01.16-03.06.28:489][592]CompilerResultsLog: Error:   Project_Electro.gen.cpp.obj : error LNK2005: "unsigned int __cdecl Get_Z_Construct_UEnum_Project_Electro_PowerType_Hash(void)" (?Get_Z_Construct_UEnum_Project_Electro_PowerType_Hash@@YAIXZ) already defined in PowerTypeValue.gen.cpp.obj
+[2020.01.16-03.06.28:489][592]CompilerResultsLog: Error:   Project_Electro.gen.cpp.obj : error LNK2005: "class UEnum * __cdecl Z_Construct_UEnum_Project_Electro_PowerType(void)" (?Z_Construct_UEnum_Project_Electro_PowerType@@YAPEAVUEnum@@XZ) already defined in PowerTypeValue.gen.cpp.obj
+[2020.01.16-03.06.28:489][592]CompilerResultsLog:      Creating library D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-9883.suppressed.lib and object D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-9883.suppressed.exp
+[2020.01.16-03.06.28:489][592]CompilerResultsLog: Error:   D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Binaries\Win64\UE4Editor-Project_Electro-9883.dll : fatal error LNK1169: one or more multiply defined symbols found
+[2020.01.16-03.06.28:489][592]LogMainFrame: MainFrame: Module compiling took 9.426 seconds
+[2020.01.16-03.06.28:489][592]Warning: HotReload failed, recompile failed
+[2020.01.16-03.07.52:654][100]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-03.07.52:659][100]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-03.12.34:577][719]Candidate modules for hot reload:
+[2020.01.16-03.12.34:577][719]  Project_Electro
+[2020.01.16-03.12.34:577][719]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Project_Electro,3115 Win64 Development -TargetType=Editor -Project="D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject" "D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject"  -IgnoreJunk]
+[2020.01.16-03.12.34:582][719]Warning: Starting HotReload took  0.0s.
+[2020.01.16-03.12.45:776][380]CompilerResultsLog: New page: Compilation - Jan 15, 2020, 5:12:45 PM
+[2020.01.16-03.12.45:776][380]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Documents\~~PROJECT ELECTRO\Project-Electro).
+[2020.01.16-03.12.45:776][380]CompilerResultsLog: Parsing headers for Project_ElectroEditor
+[2020.01.16-03.12.45:776][380]CompilerResultsLog:   Running UnrealHeaderTool "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Project_Electro.uproject" "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\Project_ElectroEditor\Development\Project_ElectroEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.16-03.12.45:776][380]CompilerResultsLog: Reflection code generated for Project_ElectroEditor in 7.5412817 seconds
+[2020.01.16-03.12.45:776][380]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.16-03.12.45:776][380]CompilerResultsLog: Building 8 actions with 12 processes...
+[2020.01.16-03.12.45:776][380]CompilerResultsLog:   [1/8] PowerTypeTest.cpp
+[2020.01.16-03.12.45:776][380]CompilerResultsLog:   [2/8] Project_Electro.cpp
+[2020.01.16-03.12.45:776][380]CompilerResultsLog:   [3/8] Project_Electro.init.gen.cpp
+[2020.01.16-03.12.45:776][380]CompilerResultsLog:   [4/8] Project_Electro.gen.cpp
+[2020.01.16-03.12.45:776][380]CompilerResultsLog:   [5/8] PowerTypeValue.gen.cpp
+[2020.01.16-03.12.45:776][380]CompilerResultsLog:   [6/8] UE4Editor-Project_Electro-3115.lib
+[2020.01.16-03.12.45:776][380]CompilerResultsLog:   Project_Electro.gen.cpp.obj : warning LNK4006: "class UEnum * __cdecl StaticEnum<enum PowerType>(void)" (??$StaticEnum@W4PowerType@@@@YAPEAVUEnum@@XZ) already defined in PowerTypeValue.gen.cpp.obj; second definition ignored
+[2020.01.16-03.12.45:776][380]CompilerResultsLog:   Project_Electro.gen.cpp.obj : warning LNK4006: "unsigned int __cdecl Get_Z_Construct_UEnum_Project_Electro_PowerType_Hash(void)" (?Get_Z_Construct_UEnum_Project_Electro_PowerType_Hash@@YAIXZ) already defined in PowerTypeValue.gen.cpp.obj; second definition ignored
+[2020.01.16-03.12.45:776][380]CompilerResultsLog:   Project_Electro.gen.cpp.obj : warning LNK4006: "class UEnum * __cdecl Z_Construct_UEnum_Project_Electro_PowerType(void)" (?Z_Construct_UEnum_Project_Electro_PowerType@@YAPEAVUEnum@@XZ) already defined in PowerTypeValue.gen.cpp.obj; second definition ignored
+[2020.01.16-03.12.45:776][380]CompilerResultsLog:      Creating library D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-3115.lib and object D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-3115.exp
+[2020.01.16-03.12.45:776][380]CompilerResultsLog:   [7/8] UE4Editor-Project_Electro-3115.dll
+[2020.01.16-03.12.45:776][380]CompilerResultsLog: Error:   Project_Electro.gen.cpp.obj : error LNK2005: "class UEnum * __cdecl StaticEnum<enum PowerType>(void)" (??$StaticEnum@W4PowerType@@@@YAPEAVUEnum@@XZ) already defined in PowerTypeValue.gen.cpp.obj
+[2020.01.16-03.12.45:777][380]CompilerResultsLog: Error:   Project_Electro.gen.cpp.obj : error LNK2005: "unsigned int __cdecl Get_Z_Construct_UEnum_Project_Electro_PowerType_Hash(void)" (?Get_Z_Construct_UEnum_Project_Electro_PowerType_Hash@@YAIXZ) already defined in PowerTypeValue.gen.cpp.obj
+[2020.01.16-03.12.45:777][380]CompilerResultsLog: Error:   Project_Electro.gen.cpp.obj : error LNK2005: "class UEnum * __cdecl Z_Construct_UEnum_Project_Electro_PowerType(void)" (?Z_Construct_UEnum_Project_Electro_PowerType@@YAPEAVUEnum@@XZ) already defined in PowerTypeValue.gen.cpp.obj
+[2020.01.16-03.12.45:777][380]CompilerResultsLog:      Creating library D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-3115.suppressed.lib and object D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-3115.suppressed.exp
+[2020.01.16-03.12.45:777][380]CompilerResultsLog: Error:   D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Binaries\Win64\UE4Editor-Project_Electro-3115.dll : fatal error LNK1169: one or more multiply defined symbols found
+[2020.01.16-03.12.45:777][380]LogMainFrame: MainFrame: Module compiling took 11.203 seconds
+[2020.01.16-03.12.45:777][380]Warning: HotReload failed, recompile failed
+[2020.01.16-03.14.33:863][555]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-03.14.33:869][555]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-03.15.08:443][693]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2020.01.16-03.15.08:443][693]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.058
+[2020.01.16-03.15.08:446][693]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.01.16-03.15.08:488][693]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.01.16-03.15.08:488][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter]
+[2020.01.16-03.15.08:549][693]LogSavePackage: Moving 'D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Saved/ThirdPersonCharacter_Auto234EE7B00403309B43135E1AE59E51CC1.tmp' to 'D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2020.01.16-03.15.08:551][693]LogFileHelpers: Auto-saving content packages took 0.106
+[2020.01.16-03.16.31:041][974]Candidate modules for hot reload:
+[2020.01.16-03.16.31:041][974]  Project_Electro
+[2020.01.16-03.16.31:041][974]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Project_Electro,4224 Win64 Development -TargetType=Editor -Project="D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject" "D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject"  -IgnoreJunk]
+[2020.01.16-03.16.31:049][974]Warning: Starting HotReload took  0.0s.
+[2020.01.16-03.16.43:867][735]CompilerResultsLog: New page: Compilation - Jan 15, 2020, 5:16:43 PM
+[2020.01.16-03.16.43:867][735]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Documents\~~PROJECT ELECTRO\Project-Electro).
+[2020.01.16-03.16.43:867][735]CompilerResultsLog: Creating makefile for Project_ElectroEditor (ini files are newer than makefile)
+[2020.01.16-03.16.43:867][735]CompilerResultsLog: Parsing headers for Project_ElectroEditor
+[2020.01.16-03.16.43:867][735]CompilerResultsLog:   Running UnrealHeaderTool "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Project_Electro.uproject" "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\Project_ElectroEditor\Development\Project_ElectroEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.16-03.16.43:867][735]CompilerResultsLog: Reflection code generated for Project_ElectroEditor in 7.7361398 seconds
+[2020.01.16-03.16.43:867][735]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.16-03.16.43:867][735]CompilerResultsLog: Building 7 actions with 12 processes...
+[2020.01.16-03.16.43:867][735]CompilerResultsLog:   [1/7] Project_Electro.init.gen.cpp
+[2020.01.16-03.16.43:867][735]CompilerResultsLog:   [2/7] Project_Electro.cpp
+[2020.01.16-03.16.43:867][735]CompilerResultsLog:   [3/7] Project_Electro.gen.cpp
+[2020.01.16-03.16.43:867][735]CompilerResultsLog:   [4/7] PowerTypeValue.gen.cpp
+[2020.01.16-03.16.43:867][735]CompilerResultsLog:   [5/7] UE4Editor-Project_Electro-4224.lib
+[2020.01.16-03.16.43:867][735]CompilerResultsLog:      Creating library D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-4224.lib and object D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-4224.exp
+[2020.01.16-03.16.43:867][735]CompilerResultsLog:   [6/7] UE4Editor-Project_Electro-4224.dll
+[2020.01.16-03.16.43:867][735]CompilerResultsLog:      Creating library D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-4224.suppressed.lib and object D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-4224.suppressed.exp
+[2020.01.16-03.16.43:867][735]CompilerResultsLog:   [7/7] Project_ElectroEditor.target
+[2020.01.16-03.16.43:867][735]CompilerResultsLog: Total time in Parallel executor: 2.44 seconds
+[2020.01.16-03.16.43:867][735]CompilerResultsLog: Total execution time: 12.68 seconds
+[2020.01.16-03.16.43:867][735]LogMainFrame: MainFrame: Module compiling took 12.829 seconds
+[2020.01.16-03.16.43:901][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.01.16-03.16.43:901][735]LogBlueprintActionDatabase: Requesting refresh due to module change: Project_Electro (unloaded)
+[2020.01.16-03.16.43:930][735]LogClass: PowerType HotReload.
+[2020.01.16-03.16.43:930][735]LogClass: PowerTypeValue HotReload.
+[2020.01.16-03.16.43:930][735]LogClass: PowerTypeVal HotReload.
+[2020.01.16-03.16.43:935][735]LogBlueprintActionDatabase: Requesting refresh due to module change: Project_Electro (loaded)
+[2020.01.16-03.16.43:935][735]LogContentBrowser: Native class hierarchy updated for 'Project_Electro' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2020.01.16-03.16.43:939][735]Display: HotReload successful (0 functions remapped  3 scriptstructs remapped)
+[2020.01.16-03.16.44:004][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.01.16-03.16.44:004][735]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.01.16-03.16.44:017][735]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2735 classes and 663 folders.
+[2020.01.16-03.16.44:018][735]Display: HotReload took 13.0s.
+[2020.01.16-03.19.46:831][761]Candidate modules for hot reload:
+[2020.01.16-03.19.46:831][761]  Project_Electro
+[2020.01.16-03.19.46:831][761]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Project_Electro,5167 Win64 Development -TargetType=Editor -Project="D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject" "D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject"  -IgnoreJunk]
+[2020.01.16-03.19.46:837][761]Warning: Starting HotReload took  0.0s.
+[2020.01.16-03.19.58:478][457]CompilerResultsLog: New page: Compilation - Jan 15, 2020, 5:19:58 PM
+[2020.01.16-03.19.58:479][457]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Documents\~~PROJECT ELECTRO\Project-Electro).
+[2020.01.16-03.19.58:479][457]CompilerResultsLog: Parsing headers for Project_ElectroEditor
+[2020.01.16-03.19.58:479][457]CompilerResultsLog:   Running UnrealHeaderTool "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Project_Electro.uproject" "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\Project_ElectroEditor\Development\Project_ElectroEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.16-03.19.58:479][457]CompilerResultsLog: Reflection code generated for Project_ElectroEditor in 7.7945136 seconds
+[2020.01.16-03.19.58:479][457]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.16-03.19.58:479][457]CompilerResultsLog: Building 6 actions with 12 processes...
+[2020.01.16-03.19.58:479][457]CompilerResultsLog:   [1/6] Project_Electro.cpp
+[2020.01.16-03.19.58:479][457]CompilerResultsLog:   [2/6] Project_Electro.init.gen.cpp
+[2020.01.16-03.19.58:479][457]CompilerResultsLog:   [3/6] Project_Electro.gen.cpp
+[2020.01.16-03.19.58:479][457]CompilerResultsLog:   [4/6] UE4Editor-Project_Electro-5167.lib
+[2020.01.16-03.19.58:479][457]CompilerResultsLog:      Creating library D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-5167.lib and object D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-5167.exp
+[2020.01.16-03.19.58:479][457]CompilerResultsLog:   [5/6] UE4Editor-Project_Electro-5167.dll
+[2020.01.16-03.19.58:479][457]CompilerResultsLog:      Creating library D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-5167.suppressed.lib and object D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-5167.suppressed.exp
+[2020.01.16-03.19.58:479][457]CompilerResultsLog:   [6/6] Project_ElectroEditor.target
+[2020.01.16-03.19.58:479][457]CompilerResultsLog: Total time in Parallel executor: 2.42 seconds
+[2020.01.16-03.19.58:479][457]CompilerResultsLog: Total execution time: 11.52 seconds
+[2020.01.16-03.19.58:479][457]LogMainFrame: MainFrame: Module compiling took 11.650 seconds
+[2020.01.16-03.19.58:545][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.01.16-03.19.58:545][457]LogBlueprintActionDatabase: Requesting refresh due to module change: Project_Electro (unloaded)
+[2020.01.16-03.19.58:564][457]LogClass: PowerType HotReload.
+[2020.01.16-03.19.58:564][457]LogClass: Could not find existing type EPowerType for HotReload. Assuming new
+[2020.01.16-03.19.58:564][457]LogClass: PowerTypeValue HotReload.
+[2020.01.16-03.19.58:568][457]LogBlueprintActionDatabase: Requesting refresh due to module change: Project_Electro (loaded)
+[2020.01.16-03.19.58:569][457]LogContentBrowser: Native class hierarchy updated for 'Project_Electro' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2020.01.16-03.19.58:573][457]Display: HotReload successful (0 functions remapped  3 scriptstructs remapped)
+[2020.01.16-03.19.58:663][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.01.16-03.19.58:663][457]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.01.16-03.19.58:678][457]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2735 classes and 663 folders.
+[2020.01.16-03.19.58:678][457]Display: HotReload took 11.9s.
+[2020.01.16-03.21.07:396][882]Candidate modules for hot reload:
+[2020.01.16-03.21.07:396][882]  Project_Electro
+[2020.01.16-03.21.07:396][882]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Project_Electro,9867 Win64 Development -TargetType=Editor -Project="D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject" "D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject"  -IgnoreJunk]
+[2020.01.16-03.21.07:406][882]Warning: Starting HotReload took  0.0s.
+[2020.01.16-03.21.18:383][537]CompilerResultsLog: New page: Compilation - Jan 15, 2020, 5:21:18 PM
+[2020.01.16-03.21.18:384][537]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Documents\~~PROJECT ELECTRO\Project-Electro).
+[2020.01.16-03.21.18:384][537]CompilerResultsLog: Parsing headers for Project_ElectroEditor
+[2020.01.16-03.21.18:384][537]CompilerResultsLog:   Running UnrealHeaderTool "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Project_Electro.uproject" "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\Project_ElectroEditor\Development\Project_ElectroEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.16-03.21.18:384][537]CompilerResultsLog: Reflection code generated for Project_ElectroEditor in 7.3624326 seconds
+[2020.01.16-03.21.18:384][537]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.16-03.21.18:384][537]CompilerResultsLog: Building 6 actions with 12 processes...
+[2020.01.16-03.21.18:384][537]CompilerResultsLog:   [1/6] Project_Electro.cpp
+[2020.01.16-03.21.18:384][537]CompilerResultsLog:   [2/6] Project_Electro.init.gen.cpp
+[2020.01.16-03.21.18:384][537]CompilerResultsLog:   [3/6] Project_Electro.gen.cpp
+[2020.01.16-03.21.18:384][537]CompilerResultsLog:   [4/6] UE4Editor-Project_Electro-9867.lib
+[2020.01.16-03.21.18:384][537]CompilerResultsLog:      Creating library D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-9867.lib and object D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-9867.exp
+[2020.01.16-03.21.18:384][537]CompilerResultsLog:   [5/6] UE4Editor-Project_Electro-9867.dll
+[2020.01.16-03.21.18:384][537]CompilerResultsLog:      Creating library D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-9867.suppressed.lib and object D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-9867.suppressed.exp
+[2020.01.16-03.21.18:384][537]CompilerResultsLog:   [6/6] Project_ElectroEditor.target
+[2020.01.16-03.21.18:384][537]CompilerResultsLog:   ERROR: Unhandled exception: System.IO.IOException: The requested operation cannot be performed on a file with a user-mapped section open.
+[2020.01.16-03.21.18:384][537]CompilerResultsLog: 
+[2020.01.16-03.21.18:384][537]CompilerResultsLog:             at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+[2020.01.16-03.21.18:384][537]CompilerResultsLog:             at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+[2020.01.16-03.21.18:384][537]CompilerResultsLog:             at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+[2020.01.16-03.21.18:384][537]CompilerResultsLog:             at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+[2020.01.16-03.21.18:384][537]CompilerResultsLog:             at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+[2020.01.16-03.21.18:384][537]CompilerResultsLog:             at System.IO.StreamWriter..ctor(String path)
+[2020.01.16-03.21.18:384][537]CompilerResultsLog:             at UnrealBuildTool.TargetReceipt.Write(FileReference Location, DirectoryReference EngineDir) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\UnrealBuildTool\System\TargetReceipt.cs:line 659
+[2020.01.16-03.21.18:384][537]CompilerResultsLog:             at UnrealBuildTool.WriteMetadataMode.ExecuteInternal(CommandLineArguments Arguments) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\UnrealBuildTool\Modes\WriteMetadataMode.cs:line 217
+[2020.01.16-03.21.18:384][537]CompilerResultsLog:             at UnrealBuildTool.WriteMetadataMode.Execute(CommandLineArguments Arguments) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\UnrealBuildTool\Modes\WriteMetadataMode.cs:line 87
+[2020.01.16-03.21.18:384][537]CompilerResultsLog:             at UnrealBuildTool.UnrealBuildTool.Main(String[] ArgumentsArray) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\UnrealBuildTool\UnrealBuildTool.cs:line 443
+[2020.01.16-03.21.18:384][537]LogMainFrame: MainFrame: Module compiling took 10.990 seconds
+[2020.01.16-03.21.18:384][537]Warning: HotReload failed, recompile failed
+[2020.01.16-03.21.46:866][122]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-03.21.46:873][122]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-03.21.54:234][561]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-03.21.54:242][561]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-03.22.07:501][719]Candidate modules for hot reload:
+[2020.01.16-03.22.07:501][719]  Project_Electro
+[2020.01.16-03.22.07:501][719]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Project_Electro,4094 Win64 Development -TargetType=Editor -Project="D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject" "D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject"  -IgnoreJunk]
+[2020.01.16-03.22.07:504][719]Warning: Starting HotReload took  0.0s.
+[2020.01.16-03.22.17:738][329]CompilerResultsLog: New page: Compilation - Jan 15, 2020, 5:22:17 PM
+[2020.01.16-03.22.17:738][329]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Documents\~~PROJECT ELECTRO\Project-Electro).
+[2020.01.16-03.22.17:738][329]CompilerResultsLog: Parsing headers for Project_ElectroEditor
+[2020.01.16-03.22.17:738][329]CompilerResultsLog:   Running UnrealHeaderTool "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Project_Electro.uproject" "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\Project_ElectroEditor\Development\Project_ElectroEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.16-03.22.17:738][329]CompilerResultsLog: Reflection code generated for Project_ElectroEditor in 7.2692074 seconds
+[2020.01.16-03.22.17:738][329]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.16-03.22.17:738][329]CompilerResultsLog: Building 3 actions with 12 processes...
+[2020.01.16-03.22.17:738][329]CompilerResultsLog:   [1/3] UE4Editor-Project_Electro-4094.lib
+[2020.01.16-03.22.17:738][329]CompilerResultsLog:      Creating library D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-4094.lib and object D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-4094.exp
+[2020.01.16-03.22.17:738][329]CompilerResultsLog:   [2/3] UE4Editor-Project_Electro-4094.dll
+[2020.01.16-03.22.17:738][329]CompilerResultsLog:      Creating library D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-4094.suppressed.lib and object D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-4094.suppressed.exp
+[2020.01.16-03.22.17:738][329]CompilerResultsLog:   [3/3] Project_ElectroEditor.target
+[2020.01.16-03.22.17:738][329]CompilerResultsLog: Total time in Parallel executor: 1.58 seconds
+[2020.01.16-03.22.17:738][329]CompilerResultsLog: Total execution time: 10.11 seconds
+[2020.01.16-03.22.17:738][329]LogMainFrame: MainFrame: Module compiling took 10.239 seconds
+[2020.01.16-03.22.17:806][329]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.01.16-03.22.17:806][329]LogBlueprintActionDatabase: Requesting refresh due to module change: Project_Electro (unloaded)
+[2020.01.16-03.22.17:824][329]LogClass: PowerType HotReload.
+[2020.01.16-03.22.17:824][329]LogClass: PowerTypeValue HotReload.
+[2020.01.16-03.22.17:829][329]LogBlueprintActionDatabase: Requesting refresh due to module change: Project_Electro (loaded)
+[2020.01.16-03.22.17:829][329]LogContentBrowser: Native class hierarchy updated for 'Project_Electro' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2020.01.16-03.22.17:833][329]Display: HotReload successful (0 functions remapped  3 scriptstructs remapped)
+[2020.01.16-03.22.17:911][329]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.01.16-03.22.17:911][329]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.01.16-03.22.17:924][329]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2735 classes and 663 folders.
+[2020.01.16-03.22.17:924][329]Display: HotReload took 10.4s.
+[2020.01.16-03.24.04:425][815]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.01.16-03.24.04:783][815]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.359 s
+[2020.01.16-03.24.04:783][815]LogOutputDevice: Error: === Handled ensure: ===
+[2020.01.16-03.24.04:783][815]LogOutputDevice: Error: 
+[2020.01.16-03.24.04:783][815]LogOutputDevice: Error: Ensure condition failed: FPropertyAccess::Success == Result [File:D:\Build\++UE4\Sync\Engine\Source\Editor\DetailCustomizations\Private\SkeletalControlNodeDetails.cpp] [Line: 70]
+[2020.01.16-03.24.04:783][815]LogOutputDevice: Error: 
+[2020.01.16-03.24.04:783][815]LogOutputDevice: Error: Stack: 
+[2020.01.16-03.24.04:783][815]LogOutputDevice: Error: [Callstack] 0x00007ffc457147e8 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.01.16-03.24.04:783][815]LogOutputDevice: Error: [Callstack] 0x00007ffc4554541e UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc495a7b3e UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc49822453 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc4982147a UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc4980467f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc49819638 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc49819e93 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc4a56d23c UE4Editor-Kismet.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc4a5a6693 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc4a5a3372 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc74963e2b UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc74961c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc514a479e UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc7496419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc74962571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc7496419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc74964bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc749626d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc7496419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc74961c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc7496419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc74964bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc514a9354 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc7496419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc74962571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc7496419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc74961c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc7496419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc74964bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc749626d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc7496419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc74961c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc7496419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc74961c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc514a479e UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc7496419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc74962571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc7496419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc74964bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc749626d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc7496419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc74961c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc7496419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc74964bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc514a9354 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc7496419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc74962571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc7496419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc74961c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc7496419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc74964bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc749626d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc7496419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc74964bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc749626d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc7496419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:784][815]LogOutputDevice: Error: [Callstack] 0x00007ffc74962571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:785][815]LogOutputDevice: Error: [Callstack] 0x00007ffc7496419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:785][815]LogOutputDevice: Error: [Callstack] 0x00007ffc74961c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:785][815]LogOutputDevice: Error: [Callstack] 0x00007ffc7496277a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:785][815]LogOutputDevice: Error: [Callstack] 0x00007ffc7496419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:785][815]LogOutputDevice: Error: [Callstack] 0x00007ffc749650fe UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.01.16-03.24.04:785][815]LogOutputDevice: Error: [Callstack] 0x00007ffc5129d714 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.16-03.24.04:785][815]LogOutputDevice: Error: [Callstack] 0x00007ffc512c68d2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.16-03.24.04:785][815]LogOutputDevice: Error: [Callstack] 0x00007ffc5129e2a2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.16-03.24.04:785][815]LogOutputDevice: Error: [Callstack] 0x00007ffc512ea859 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.16-03.24.04:785][815]LogOutputDevice: Error: [Callstack] 0x00007ffc512e9a4d UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.16-03.24.04:785][815]LogOutputDevice: Error: [Callstack] 0x00007ff711427a6a UE4Editor.exe!UnknownFunction []
+[2020.01.16-03.24.04:785][815]LogOutputDevice: Error: [Callstack] 0x00007ff71143554c UE4Editor.exe!UnknownFunction []
+[2020.01.16-03.24.04:785][815]LogOutputDevice: Error: [Callstack] 0x00007ff7114355ca UE4Editor.exe!UnknownFunction []
+[2020.01.16-03.24.04:785][815]LogOutputDevice: Error: [Callstack] 0x00007ff71144316c UE4Editor.exe!UnknownFunction []
+[2020.01.16-03.24.04:785][815]LogOutputDevice: Error: [Callstack] 0x00007ff711445b8e UE4Editor.exe!UnknownFunction []
+[2020.01.16-03.24.04:785][815]LogOutputDevice: Error: [Callstack] 0x00007ffca71b7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.01.16-03.24.04:785][815]LogOutputDevice: Error: [Callstack] 0x00007ffca87eced1 ntdll.dll!UnknownFunction []
+[2020.01.16-03.24.04:785][815]LogOutputDevice: Error: 
+[2020.01.16-03.24.06:144][815]LogStats:                SubmitErrorReport -  0.000 s
+[2020.01.16-03.24.06:878][815]LogStats:                    SendNewReport -  0.733 s
+[2020.01.16-03.24.06:878][815]LogStats:             FDebug::EnsureFailed -  2.453 s
+[2020.01.16-03.24.11:833][109]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.01.16-03.24.11:919][109]LogSavePackage: Moving 'D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Saved/ThirdPersonCharacterB52DF03E4F4190D17D71058085FF1D15.tmp' to 'D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.01.16-03.24.13:834][223]Candidate modules for hot reload:
+[2020.01.16-03.24.13:834][223]  Project_Electro
+[2020.01.16-03.24.13:834][223]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Project_Electro,9404 Win64 Development -TargetType=Editor -Project="D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject" "D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject"  -IgnoreJunk]
+[2020.01.16-03.24.13:839][223]Warning: Starting HotReload took  0.0s.
+[2020.01.16-03.24.21:761][553]CompilerResultsLog: New page: Compilation - Jan 15, 2020, 5:24:21 PM
+[2020.01.16-03.24.21:761][553]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Documents\~~PROJECT ELECTRO\Project-Electro).
+[2020.01.16-03.24.21:761][553]CompilerResultsLog: Parsing headers for Project_ElectroEditor
+[2020.01.16-03.24.21:761][553]CompilerResultsLog:   Running UnrealHeaderTool "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Project_Electro.uproject" "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\Project_ElectroEditor\Development\Project_ElectroEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.16-03.24.21:761][553]CompilerResultsLog: Error: D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Source/Project_Electro/Project_Electro.h(18)  : Error: struct: 'PowerTypeValue' conflicts with another type of the same name defined at D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Source\Project_Electro\Public\PowerTypeValue.h(17)
+[2020.01.16-03.24.21:761][553]LogMainFrame: MainFrame: Module compiling took 7.929 seconds
+[2020.01.16-03.24.21:762][553]Warning: HotReload failed, recompile failed
+[2020.01.16-03.24.32:695][207]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-03.24.32:702][207]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-03.24.48:707][362]Candidate modules for hot reload:
+[2020.01.16-03.24.48:707][362]  Project_Electro
+[2020.01.16-03.24.48:707][362]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Project_Electro,1165 Win64 Development -TargetType=Editor -Project="D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject" "D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject"  -IgnoreJunk]
+[2020.01.16-03.24.48:713][362]Warning: Starting HotReload took  0.0s.
+[2020.01.16-03.25.01:150][101]CompilerResultsLog: New page: Compilation - Jan 15, 2020, 5:25:01 PM
+[2020.01.16-03.25.01:150][101]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Documents\~~PROJECT ELECTRO\Project-Electro).
+[2020.01.16-03.25.01:151][101]CompilerResultsLog: Invalidating makefile for Project_ElectroEditor (source file removed)
+[2020.01.16-03.25.01:151][101]CompilerResultsLog: Parsing headers for Project_ElectroEditor
+[2020.01.16-03.25.01:151][101]CompilerResultsLog:   Running UnrealHeaderTool "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Project_Electro.uproject" "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\Project_ElectroEditor\Development\Project_ElectroEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.16-03.25.01:151][101]CompilerResultsLog: Reflection code generated for Project_ElectroEditor in 7.3816705 seconds
+[2020.01.16-03.25.01:151][101]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.16-03.25.01:151][101]CompilerResultsLog: Building 6 actions with 12 processes...
+[2020.01.16-03.25.01:151][101]CompilerResultsLog:   [1/6] Project_Electro.cpp
+[2020.01.16-03.25.01:151][101]CompilerResultsLog:   [2/6] Project_Electro.init.gen.cpp
+[2020.01.16-03.25.01:151][101]CompilerResultsLog:   [3/6] Project_Electro.gen.cpp
+[2020.01.16-03.25.01:151][101]CompilerResultsLog:   [4/6] UE4Editor-Project_Electro-1165.lib
+[2020.01.16-03.25.01:151][101]CompilerResultsLog:      Creating library D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-1165.lib and object D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-1165.exp
+[2020.01.16-03.25.01:151][101]CompilerResultsLog:   [5/6] UE4Editor-Project_Electro-1165.dll
+[2020.01.16-03.25.01:151][101]CompilerResultsLog:      Creating library D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-1165.suppressed.lib and object D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\UE4Editor\Development\Project_Electro\UE4Editor-Project_Electro-1165.suppressed.exp
+[2020.01.16-03.25.01:151][101]CompilerResultsLog:   [6/6] Project_ElectroEditor.target
+[2020.01.16-03.25.01:151][101]CompilerResultsLog: Total time in Parallel executor: 2.40 seconds
+[2020.01.16-03.25.01:151][101]CompilerResultsLog: Total execution time: 12.29 seconds
+[2020.01.16-03.25.01:151][101]LogMainFrame: MainFrame: Module compiling took 12.446 seconds
+[2020.01.16-03.25.01:204][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.01.16-03.25.01:204][101]LogBlueprintActionDatabase: Requesting refresh due to module change: Project_Electro (unloaded)
+[2020.01.16-03.25.01:222][101]LogClass: EPowerType HotReload.
+[2020.01.16-03.25.01:226][101]LogBlueprintActionDatabase: Requesting refresh due to module change: Project_Electro (loaded)
+[2020.01.16-03.25.01:227][101]LogContentBrowser: Native class hierarchy updated for 'Project_Electro' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2020.01.16-03.25.01:231][101]Display: HotReload successful (0 functions remapped  3 scriptstructs remapped)
+[2020.01.16-03.25.01:297][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.01.16-03.25.01:297][101]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.01.16-03.25.01:311][101]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2735 classes and 663 folders.
+[2020.01.16-03.25.01:311][101]Display: HotReload took 12.6s.
+[2020.01.16-03.26.31:624][111]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2020.01.16-03.26.31:624][111]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.092
+[2020.01.16-03.26.31:626][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.01.16-03.26.31:657][111]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.01.16-03.26.31:657][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter]
+[2020.01.16-03.26.31:686][111]LogSavePackage: Moving 'D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Saved/ThirdPersonCharacter_Auto38DA9CB694AE2AB4A06A58493D960F825.tmp' to 'D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2020.01.16-03.26.31:687][111]LogFileHelpers: Auto-saving content packages took 0.062
+[2020.01.16-03.29.18:450][770]Candidate modules for hot reload:
+[2020.01.16-03.29.18:450][770]  Project_Electro
+[2020.01.16-03.29.18:450][770]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Project_Electro,3870 Win64 Development -TargetType=Editor -Project="D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject" "D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Project_Electro.uproject"  -IgnoreJunk]
+[2020.01.16-03.29.18:459][770]Warning: Starting HotReload took  0.0s.
+[2020.01.16-03.29.26:845][884]CompilerResultsLog: New page: Compilation - Jan 15, 2020, 5:29:26 PM
+[2020.01.16-03.29.26:845][884]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Documents\~~PROJECT ELECTRO\Project-Electro).
+[2020.01.16-03.29.26:845][884]CompilerResultsLog: Creating makefile for Project_ElectroEditor (ini files are newer than makefile)
+[2020.01.16-03.29.26:845][884]CompilerResultsLog: Parsing headers for Project_ElectroEditor
+[2020.01.16-03.29.26:845][884]CompilerResultsLog:   Running UnrealHeaderTool "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Project_Electro.uproject" "D:\Documents\~~PROJECT ELECTRO\Project-Electro\Project_Electro\Intermediate\Build\Win64\Project_ElectroEditor\Development\Project_ElectroEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.16-03.29.26:845][884]CompilerResultsLog: Error: D:/Documents/~~PROJECT ELECTRO/Project-Electro/Project_Electro/Source/Project_Electro/Project_Electro.h(28)  : Error: USTRUCTs cannot contain UFUNCTIONs.
+[2020.01.16-03.29.26:845][884]LogMainFrame: MainFrame: Module compiling took 8.400 seconds
+[2020.01.16-03.29.26:846][884]Warning: HotReload failed, recompile failed
+[2020.01.16-03.29.37:730][279]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-03.29.37:738][279]LogSlate: Window 'Message Log' being destroyed
